@@ -1,0 +1,296 @@
+minute,second,x,y,expandedMinute,period,type,playerId,blockedX,blockedY,goalMouthZ,goalMouthY,cumulative_mins,teamName,oppositionTeamName,shirtNo,name,position,shortName,penalty,xG
+6,24,66.255,37.74,6,FirstHalf,MissedShots,494186,,,6.9,27.2,6.4,Manchester City Women,Arsenal Women,6,Vivianne Miedema,MC,V. Miedema,,0.02
+20,23,74.97,39.1,20,FirstHalf,SavedShot,460953,98.8,50.9,24.1,32.164,20.38333333,Manchester City Women,Arsenal Women,11,Lauren Hemp,FWL,L. Hemp,,0.03
+23,16,94.71,29.648,23,FirstHalf,SavedShot,461084,93.7,45.8,19,33.932,23.26666667,Manchester City Women,Arsenal Women,20,Aoba Fujino,FWR,A. Fujino,,0.18
+41,31,88.725,42.84,41,FirstHalf,Goal,494186,,,19,35.292,41.51666667,Manchester City Women,Arsenal Women,6,Vivianne Miedema,MC,V. Miedema,,0.1
+57,49,85.26,33.184,61,SecondHalf,Goal,460974,,,28.5,36.652,60.86666667,Manchester City Women,Arsenal Women,16,Jessica Park,MC,J. Park,,0.04
+61,37,86.31,32.572,65,SecondHalf,SavedShot,494186,98.2,50,14.6,34,64.66666667,Manchester City Women,Arsenal Women,6,Vivianne Miedema,MC,V. Miedema,,0.07
+66,40,79.17,30.464,70,SecondHalf,SavedShot,461065,77.5,45.3,19,34.544,69.71666667,Manchester City Women,Arsenal Women,21,Khadija Shaw,FW,K. Shaw,,0.02
+69,49,90.93,33.184,73,SecondHalf,MissedShots,464437,91.9,57.9,4.2,59.228,72.86666667,Manchester City Women,Arsenal Women,25,Yui Hasegawa,MC,Y. Hasegawa,,0.06
+69,50,93.975,38.352,73,SecondHalf,SavedShot,494186,98.9,51.6,0.6,35.904,72.88333333,Manchester City Women,Arsenal Women,6,Vivianne Miedema,MC,V. Miedema,,0.08
+69,51,95.13,39.508,73,SecondHalf,MissedShots,494186,96.2,49.1,16.7,24.208,72.9,Manchester City Women,Arsenal Women,6,Vivianne Miedema,MC,V. Miedema,,0.21
+71,4,91.56,28.628,75,SecondHalf,MissedShots,460974,89.5,46.9,2.8,46.648,74.11666667,Manchester City Women,Arsenal Women,16,Jessica Park,MC,J. Park,,0.21
+71,45,93.24,37.944,75,SecondHalf,SavedShot,461065,98.5,52.7,14.6,35.972,74.8,Manchester City Women,Arsenal Women,21,Khadija Shaw,FW,K. Shaw,,0.16
+81,29,89.145,30.532,85,SecondHalf,SavedShot,460974,87.1,45.7,19,34.136,84.53333333,Manchester City Women,Arsenal Women,16,Jessica Park,MC,J. Park,,0.04
+89,12,84.63,25.568,93,SecondHalf,SavedShot,460956,87.7,42.6,19,34.816,92.25,Manchester City Women,Arsenal Women,5,Alex Greenwood,DC,A. Greenwood,,0.11
+96,27,83.895,36.992,100,SecondHalf,SavedShot,494319,99,50.9,13.9,35.972,99.5,Manchester City Women,Arsenal Women,4,Laia Aleixandri,DC,L. Aleixandri,,0.05
+4,28,95.34,31.008,4,FirstHalf,SavedShot,494186,91.7,45.8,20.8,31.756,4.466666667,Manchester City Women,Aston Villa Women,6,Vivianne Miedema,FW,V. Miedema,,0.11
+5,0,90.195,36.72,5,FirstHalf,SavedShot,461168,98.4,52.3,5.1,32.436,5,Manchester City Women,Aston Villa Women,10,Jill Roord,MC,J. Roord,,0.04
+15,1,91.77,46.58,15,FirstHalf,MissedShots,455530,,,54.2,32.776,15.01666667,Manchester City Women,Aston Villa Women,8,Mary Fowler,FWL,M. Fowler,,0.04
+17,39,102.795,32.572,17,FirstHalf,MissedShots,494186,,,26.4,29.24,17.65,Manchester City Women,Aston Villa Women,6,Vivianne Miedema,FW,V. Miedema,,0.38
+21,9,94.08,38.488,21,FirstHalf,MissedShots,461168,,,4.2,38.148,21.15,Manchester City Women,Aston Villa Women,10,Jill Roord,MC,J. Roord,,0.09
+21,57,89.145,36.72,21,FirstHalf,SavedShot,494186,87.3,52.9,11.1,31.348,21.95,Manchester City Women,Aston Villa Women,6,Vivianne Miedema,FW,V. Miedema,,0.16
+22,31,97.02,29.648,22,FirstHalf,SavedShot,494319,94.5,45.5,19.4,35.972,22.51666667,Manchester City Women,Aston Villa Women,4,Laia Aleixandri,DC,L. Aleixandri,,0.11
+22,45,85.26,34.068,22,FirstHalf,SavedShot,494318,99,50.2,26.6,33.116,22.75,Manchester City Women,Aston Villa Women,15,Leila Ouahabi,DL,L. Ouahabi,,0.04
+27,18,88.83,31.552,27,FirstHalf,Goal,494186,,,3.8,31.824,27.3,Manchester City Women,Aston Villa Women,6,Vivianne Miedema,FW,V. Miedema,,0.06
+32,8,98.385,22.1,32,FirstHalf,SavedShot,461084,98.4,44.9,12,31.212,32.13333333,Manchester City Women,Aston Villa Women,20,Aoba Fujino,FWR,A. Fujino,,0.03
+34,27,84,45.492,34,FirstHalf,Goal,494186,,,32.9,31.348,34.45,Manchester City Women,Aston Villa Women,6,Vivianne Miedema,FW,V. Miedema,,0.03
+39,39,99.015,33.796,39,FirstHalf,MissedShots,461168,,,22.2,39.576,39.65,Manchester City Women,Aston Villa Women,10,Jill Roord,MC,J. Roord,,0.57
+53,35,85.26,23.392,57,SecondHalf,Goal,455530,,,26.6,36.176,56.76666667,Manchester City Women,Aston Villa Women,8,Mary Fowler,FWL,M. Fowler,,0.04
+55,9,98.91,35.428,59,SecondHalf,MissedShots,461168,,,75,34.612,58.33333333,Manchester City Women,Aston Villa Women,10,Jill Roord,MC,J. Roord,,0.39
+61,35,99.225,36.176,65,SecondHalf,Goal,460974,,,14.6,36.312,64.76666667,Manchester City Women,Aston Villa Women,16,Jessica Park,MC,J. Park,,0.52
+71,19,87.675,29.648,75,SecondHalf,SavedShot,455530,85.8,44.2,19,32.708,74.5,Manchester City Women,Aston Villa Women,8,Mary Fowler,FWL,M. Fowler,,0.04
+71,24,96.915,36.856,75,SecondHalf,SavedShot,494186,99,50,5.7,35.292,74.58333333,Manchester City Women,Aston Villa Women,6,Vivianne Miedema,FW,V. Miedema,,0.29
+80,35,90.195,33.66,84,SecondHalf,SavedShot,461168,89.3,50.2,19,35.564,83.76666667,Manchester City Women,Aston Villa Women,10,Jill Roord,MC,J. Roord,,0.24
+21,32,94.185,20.876,21,FirstHalf,MissedShots,461065,,,13.9,43.656,21.53333333,Manchester City Women,Chelsea FC Women,21,Khadija Shaw,FW,K. Shaw,,0.12
+36,53,78.75,24.344,36,FirstHalf,SavedShot,461065,77.3,37,19,33.048,36.88333333,Manchester City Women,Chelsea FC Women,21,Khadija Shaw,FW,K. Shaw,,0.02
+43,12,98.91,32.232,43,FirstHalf,MissedShots,461065,,,13.9,28.356,43.2,Manchester City Women,Chelsea FC Women,21,Khadija Shaw,FW,K. Shaw,,0.12
+53,4,91.56,32.436,56,SecondHalf,SavedShot,461065,99.7,48.9,3.2,36.04,55.15,Manchester City Women,Chelsea FC Women,21,Khadija Shaw,FW,K. Shaw,,0.03
+54,52,99.225,28.084,57,SecondHalf,MissedShots,461065,,,62.5,29.172,56.95,Manchester City Women,Chelsea FC Women,21,Khadija Shaw,FW,K. Shaw,,0.1
+66,41,97.545,21.692,69,SecondHalf,SavedShot,461084,92.7,30.5,19,32.164,68.76666667,Manchester City Women,Chelsea FC Women,20,Aoba Fujino,FWR,A. Fujino,,0.03
+76,22,90.825,50.796,79,SecondHalf,SavedShot,461065,99.1,50.7,14.6,35.836,78.45,Manchester City Women,Chelsea FC Women,21,Khadija Shaw,FW,K. Shaw,,0.05
+95,16,97.65,38.352,98,SecondHalf,MissedShots,461065,94.9,27.2,29.2,18.156,97.35,Manchester City Women,Chelsea FC Women,21,Khadija Shaw,FW,K. Shaw,,0.24
+0,22,85.68,26.452,0,FirstHalf,SavedShot,461065,99,48,6.3,33.592,0.3666666667,Manchester City Women,Crystal Palace FC Women,21,Khadija Shaw,FW,K. Shaw,,0.09
+2,25,92.085,42.976,2,FirstHalf,SavedShot,461168,89.3,61.7,19,35.224,2.416666667,Manchester City Women,Crystal Palace FC Women,10,Jill Roord,MC,J. Roord,,0.03
+7,34,90.405,39.236,7,FirstHalf,MissedShots,494318,,,20.8,12.24,7.566666667,Manchester City Women,Crystal Palace FC Women,15,Leila Ouahabi,DL,L. Ouahabi,,0.11
+10,29,93.765,17.68,10,FirstHalf,SavedShot,461065,97.6,45.1,5.1,31.892,10.48333333,Manchester City Women,Crystal Palace FC Women,21,Khadija Shaw,FW,K. Shaw,,0.05
+20,43,89.88,34.612,20,FirstHalf,MissedShots,460953,,,4.2,28.084,20.71666667,Manchester City Women,Crystal Palace FC Women,11,Lauren Hemp,FWL,L. Hemp,,0.2
+22,44,92.61,31.756,22,FirstHalf,SavedShot,460974,98.1,48.4,10.8,33.184,22.73333333,Manchester City Women,Crystal Palace FC Women,16,Jessica Park,MC,J. Park,,0.55
+39,57,80.43,21.896,39,FirstHalf,Goal,460974,,,21.5,36.448,39.95,Manchester City Women,Crystal Palace FC Women,16,Jessica Park,MC,J. Park,,0.02
+46,12,84.945,23.256,46,FirstHalf,MissedShots,460953,,,52.8,33.796,46.2,Manchester City Women,Crystal Palace FC Women,11,Lauren Hemp,FWL,L. Hemp,,0.05
+49,4,97.125,31.756,49,FirstHalf,MissedShots,461065,,,61.1,32.096,49.06666667,Manchester City Women,Crystal Palace FC Women,21,Khadija Shaw,FW,K. Shaw,,0.18
+48,17,98.7,34.884,53,SecondHalf,SavedShot,461168,98.2,50.4,17.1,33.116,53.11666667,Manchester City Women,Crystal Palace FC Women,10,Jill Roord,MC,J. Roord,,0.22
+49,41,89.67,36.312,54,SecondHalf,Goal,461168,,,7.6,36.652,54.51666667,Manchester City Women,Crystal Palace FC Women,10,Jill Roord,MC,J. Roord,,0.16
+52,3,85.89,36.244,57,SecondHalf,SavedShot,460974,83.4,53.2,19,35.836,56.88333333,Manchester City Women,Crystal Palace FC Women,16,Jessica Park,MC,J. Park,,0.03
+55,24,99.33,40.8,60,SecondHalf,MissedShots,461065,,,11.1,26.724,60.23333333,Manchester City Women,Crystal Palace FC Women,21,Khadija Shaw,FW,K. Shaw,,0.1
+56,20,94.08,47.532,61,SecondHalf,SavedShot,460953,92.1,66.1,19,36.856,61.16666667,Manchester City Women,Crystal Palace FC Women,11,Lauren Hemp,FWL,L. Hemp,,0.04
+66,27,102.165,42.16,71,SecondHalf,SavedShot,461168,98.4,58.7,19,36.448,71.28333333,Manchester City Women,Crystal Palace FC Women,10,Jill Roord,MC,J. Roord,,0.15
+67,32,98.595,34.612,72,SecondHalf,MissedShots,461168,99.4,81.1,20.8,54.196,72.36666667,Manchester City Women,Crystal Palace FC Women,10,Jill Roord,MC,J. Roord,,0.37
+67,47,91.14,33.932,72,SecondHalf,SavedShot,460968,98,48.6,27.2,35.7,72.61666667,Manchester City Women,Crystal Palace FC Women,9,Chloe Kelly,Sub,C. Kelly,,0.19
+71,29,80.535,41.004,76,SecondHalf,SavedShot,494318,81,58.8,19,35.632,76.31666667,Manchester City Women,Crystal Palace FC Women,15,Leila Ouahabi,DL,L. Ouahabi,,0.03
+72,6,97.65,34.408,77,SecondHalf,Goal,461065,,,22.8,32.232,76.93333333,Manchester City Women,Crystal Palace FC Women,21,Khadija Shaw,FW,K. Shaw,,0.34
+75,12,89.985,37.06,80,SecondHalf,SavedShot,460968,88.2,54.2,19,35.7,80.03333333,Manchester City Women,Crystal Palace FC Women,9,Chloe Kelly,Sub,C. Kelly,,0.06
+90,57,76.23,34.68,95,SecondHalf,SavedShot,464437,81.2,50.9,19,34.476,95.78333333,Manchester City Women,Crystal Palace FC Women,25,Yui Hasegawa,MC,Y. Hasegawa,,0.02
+91,16,83.895,41.956,96,SecondHalf,SavedShot,494318,83.3,59.8,19,34.136,96.1,Manchester City Women,Crystal Palace FC Women,15,Leila Ouahabi,DL,L. Ouahabi,,0.03
+93,18,78.645,25.228,98,SecondHalf,SavedShot,460968,96.4,48.6,24.7,35.632,98.13333333,Manchester City Women,Crystal Palace FC Women,9,Chloe Kelly,Sub,C. Kelly,,0.03
+12,23,94.92,28.9,12,FirstHalf,SavedShot,461168,96.9,47.3,19,33.66,12.38333333,Manchester City Women,Everton Women,10,Jill Roord,DMC,J. Roord,,0.21
+12,25,94.29,34.272,12,FirstHalf,SavedShot,494193,98.5,49.5,2.5,34.408,12.41666667,Manchester City Women,Everton Women,19,Laura Blindkilde Brown,AMC,L. B. Brown,,0.09
+33,7,95.34,38.76,33,FirstHalf,SavedShot,494318,99.1,50.9,20.3,34.748,33.11666667,Manchester City Women,Everton Women,15,Leila Ouahabi,DL,L. Ouahabi,,0.04
+37,50,87.255,38.352,37,FirstHalf,MissedShots,455530,,,9.7,40.46,37.83333333,Manchester City Women,Everton Women,8,Mary Fowler,FW,M. Fowler,,0.04
+40,34,102.69,33.932,40,FirstHalf,SavedShot,455533,99.3,51.8,19,35.836,40.56666667,Manchester City Women,Everton Women,14,Alanna Kennedy,DC,A. Kennedy,,0.62
+43,22,84,47.124,43,FirstHalf,SavedShot,461084,92.8,57.2,19,31.96,43.36666667,Manchester City Women,Everton Women,20,Aoba Fujino,AML,A. Fujino,,0.03
+49,56,92.82,25.84,51,SecondHalf,SavedShot,455530,94,43.3,19,33.388,51.05,Manchester City Women,Everton Women,8,Mary Fowler,FW,M. Fowler,,0.11
+51,52,101.64,34.408,53,SecondHalf,MissedShots,461168,,,18.1,24.344,52.98333333,Manchester City Women,Everton Women,10,Jill Roord,DMC,J. Roord,,0.77
+53,35,91.35,34.68,55,SecondHalf,SavedShot,461168,99.7,51.1,30.4,35.904,54.7,Manchester City Women,Everton Women,10,Jill Roord,DMC,J. Roord,,0.01
+61,24,90.825,35.768,63,SecondHalf,SavedShot,494318,92.8,50.7,19,33.048,62.51666667,Manchester City Women,Everton Women,15,Leila Ouahabi,DL,L. Ouahabi,,0.12
+61,26,91.98,40.052,63,SecondHalf,MissedShots,538232,,,79.2,33.252,62.55,Manchester City Women,Everton Women,46,Lily Murphy,Sub,L. Murphy,,0.1
+64,45,97.23,30.872,66,SecondHalf,SavedShot,455530,94.1,45.7,19,31.756,65.86666667,Manchester City Women,Everton Women,8,Mary Fowler,FW,M. Fowler,,0.16
+72,51,89.775,25.84,74,SecondHalf,SavedShot,461168,98.8,48.6,19.6,31.076,73.96666667,Manchester City Women,Everton Women,10,Jill Roord,DMC,J. Roord,,0.03
+88,16,92.925,34,90,SecondHalf,Goal,455530,,,16.5,33.456,89.38333333,Manchester City Women,Everton Women,8,Mary Fowler,FW,M. Fowler,TRUE,0.73
+92,28,96.18,52.088,94,SecondHalf,SavedShot,460968,92.4,74.6,12.5,34.544,93.58333333,Manchester City Women,Everton Women,9,Chloe Kelly,Sub,C. Kelly,,0.02
+94,35,74.865,41.956,96,SecondHalf,MissedShots,494319,,,11.1,41.616,95.7,Manchester City Women,Everton Women,4,Laia Aleixandri,DC,L. Aleixandri,,0.03
+12,41,80.64,25.296,12,FirstHalf,SavedShot,460974,81.8,40.6,19,36.176,12.68333333,Manchester City Women,Liverpool FC Women,16,Jessica Park,MC,J. Park,,0.02
+22,58,99.015,36.312,22,FirstHalf,MissedShots,461065,99.1,41,2.8,26.996,22.96666667,Manchester City Women,Liverpool FC Women,21,Khadija Shaw,FW,K. Shaw,,0.32
+27,52,101.85,26.724,27,FirstHalf,MissedShots,460953,,,4.2,45.492,27.86666667,Manchester City Women,Liverpool FC Women,11,Lauren Hemp,FWL,L. Hemp,,0.28
+56,11,92.715,44.608,61,SecondHalf,MissedShots,461168,,,11.1,41.344,60.26666667,Manchester City Women,Liverpool FC Women,10,Jill Roord,MC,J. Roord,,0.11
+57,20,95.76,32.368,62,SecondHalf,Goal,461065,,,14.6,36.652,61.41666667,Manchester City Women,Liverpool FC Women,21,Khadija Shaw,FW,K. Shaw,,0.11
+59,28,79.695,49.368,64,SecondHalf,MissedShots,460953,,,81.9,34.272,63.55,Manchester City Women,Liverpool FC Women,11,Lauren Hemp,FWL,L. Hemp,,0.02
+62,10,86.205,45.152,67,SecondHalf,MissedShots,460953,,,22.2,27.88,66.25,Manchester City Women,Liverpool FC Women,11,Lauren Hemp,FWL,L. Hemp,,0.07
+72,59,83.16,39.712,77,SecondHalf,SavedShot,460974,81,57.8,19,34.612,77.06666667,Manchester City Women,Liverpool FC Women,16,Jessica Park,MC,J. Park,,0.03
+73,54,89.46,33.116,78,SecondHalf,MissedShots,455530,,,31.9,41.684,77.98333333,Manchester City Women,Liverpool FC Women,8,Mary Fowler,FWR,M. Fowler,,0.06
+82,37,95.34,22.848,87,SecondHalf,ShotOnPost,461065,,,13.9,37.672,86.7,Manchester City Women,Liverpool FC Women,21,Khadija Shaw,FW,K. Shaw,,0.1
+84,41,85.365,32.436,89,SecondHalf,SavedShot,461168,82.8,48,19,35.088,88.76666667,Manchester City Women,Liverpool FC Women,10,Jill Roord,MC,J. Roord,,0.05
+85,30,99.855,34.748,90,SecondHalf,MissedShots,460956,,,22.2,38.828,89.58333333,Manchester City Women,Liverpool FC Women,5,Alex Greenwood,DC,A. Greenwood,,0.21
+91,7,91.455,37.128,96,SecondHalf,SavedShot,494318,89.5,53.6,19,33.592,95.2,Manchester City Women,Liverpool FC Women,15,Leila Ouahabi,DL,L. Ouahabi,,0.06
+91,32,93.975,23.936,96,SecondHalf,Goal,461065,,,31,31.892,95.61666667,Manchester City Women,Liverpool FC Women,21,Khadija Shaw,FW,K. Shaw,,0.1
+2,39,92.715,22.372,2,FirstHalf,MissedShots,461168,,,36.1,24.48,2.65,Manchester City Women,Arsenal Women,10,Jill Roord,MC,J. Roord,,0.03
+13,39,95.76,32.844,13,FirstHalf,MissedShots,494186,,,8.3,25.024,13.65,Manchester City Women,Arsenal Women,6,Vivianne Miedema,FW,V. Miedema,,0.21
+16,34,94.815,47.668,16,FirstHalf,MissedShots,494318,,,33.3,28.696,16.56666667,Manchester City Women,Arsenal Women,15,Leila Ouahabi,DL,L. Ouahabi,,0.05
+19,17,102.585,37.06,19,FirstHalf,Goal,455530,,,13.3,34.68,19.28333333,Manchester City Women,Arsenal Women,8,Mary Fowler,FWL,M. Fowler,,0.3
+24,33,76.86,36.992,24,FirstHalf,SavedShot,494186,98.4,50.2,20.9,32.912,24.55,Manchester City Women,Arsenal Women,6,Vivianne Miedema,FW,V. Miedema,,0.03
+28,0,82.95,28.356,28,FirstHalf,SavedShot,464437,97.8,48.6,21.5,36.652,28,Manchester City Women,Arsenal Women,25,Yui Hasegawa,MC,Y. Hasegawa,,0.07
+29,44,84.84,22.44,29,FirstHalf,SavedShot,461156,82.5,34.5,19,33.592,29.73333333,Manchester City Women,Arsenal Women,18,Kerstin Casparij,DR,K. Casparij,,0.03
+33,43,88.305,33.66,33,FirstHalf,MissedShots,494186,,,6.9,28.9,33.71666667,Manchester City Women,Arsenal Women,6,Vivianne Miedema,FW,V. Miedema,,0.05
+44,30,90.72,24.616,44,FirstHalf,SavedShot,461168,88.5,38.3,19,33.728,44.5,Manchester City Women,Arsenal Women,10,Jill Roord,MC,J. Roord,,0.04
+46,37,82.425,30.6,46,FirstHalf,SavedShot,461084,98.6,49.6,3.8,33.048,46.61666667,Manchester City Women,Arsenal Women,20,Aoba Fujino,FWR,A. Fujino,,0.08
+49,26,96.285,26.588,52,SecondHalf,Goal,494186,,,1.3,35.292,51.51666667,Manchester City Women,Arsenal Women,6,Vivianne Miedema,FW,V. Miedema,,0.08
+54,26,92.925,34,57,SecondHalf,Goal,455530,,,13.3,32.708,56.51666667,Manchester City Women,Arsenal Women,8,Mary Fowler,FWL,M. Fowler,TRUE,0.73
+69,10,80.64,23.392,72,SecondHalf,MissedShots,461168,,,16.7,25.364,71.25,Manchester City Women,Arsenal Women,10,Jill Roord,MC,J. Roord,,0.03
+84,7,80.955,27.676,87,SecondHalf,SavedShot,455530,78.9,41.5,19,34.748,86.2,Manchester City Women,Arsenal Women,8,Mary Fowler,FWL,M. Fowler,,0.02
+8,27,76.86,36.176,8,FirstHalf,MissedShots,461065,,,69.4,25.704,8.45,Manchester City Women,Aston Villa Women,21,Khadija Shaw,FW,K. Shaw,,0.04
+17,21,96.285,36.04,17,FirstHalf,SavedShot,461065,98.5,50.7,26.6,34,17.35,Manchester City Women,Aston Villa Women,21,Khadija Shaw,FW,K. Shaw,,0.29
+24,7,93.345,44.472,24,FirstHalf,SavedShot,460953,91.6,62.1,16.5,34,24.11666667,Manchester City Women,Aston Villa Women,11,Lauren Hemp,FWL,L. Hemp,,0.18
+34,24,86.835,31.688,34,FirstHalf,SavedShot,460974,86.7,47.7,19,34.816,34.4,Manchester City Women,Aston Villa Women,16,Jessica Park,MC,J. Park,,0.04
+34,26,89.145,22.1,34,FirstHalf,SavedShot,460953,97.3,46.8,8.9,34.612,34.43333333,Manchester City Women,Aston Villa Women,11,Lauren Hemp,FWL,L. Hemp,,0.07
+45,16,94.815,40.324,45,FirstHalf,SavedShot,461168,98.2,51.8,10.1,33.796,45.26666667,Manchester City Women,Aston Villa Women,10,Jill Roord,MC,J. Roord,,0.07
+55,30,101.325,22.372,58,SecondHalf,SavedShot,461065,96.9,35.4,19,35.836,57.63333333,Manchester City Women,Aston Villa Women,21,Khadija Shaw,FW,K. Shaw,,0.03
+58,17,100.17,33.796,61,SecondHalf,SavedShot,460953,96.7,50,19,36.244,60.41666667,Manchester City Women,Aston Villa Women,11,Lauren Hemp,FWL,L. Hemp,,0.28
+61,41,95.76,24.616,64,SecondHalf,Goal,460953,,,19,32.504,63.81666667,Manchester City Women,Aston Villa Women,11,Lauren Hemp,FWL,L. Hemp,,0.1
+69,55,94.71,39.508,72,SecondHalf,Goal,461168,,,16.5,35.36,72.05,Manchester City Women,Aston Villa Women,10,Jill Roord,MC,J. Roord,,0.41
+73,39,96.285,33.932,76,SecondHalf,MissedShots,461065,,,9.7,29.716,75.78333333,Manchester City Women,Aston Villa Women,21,Khadija Shaw,FW,K. Shaw,,0.14
+94,58,85.68,24.344,97,SecondHalf,SavedShot,460953,98.1,48.9,12,35.36,97.1,Manchester City Women,Aston Villa Women,11,Lauren Hemp,FWL,L. Hemp,,0.02
+11,38,84.63,25.636,11,FirstHalf,SavedShot,460953,99.1,49.6,5.7,34.204,11.63333333,Manchester City Women,Brighton & Hove Albion Women,11,Lauren Hemp,FWL,L. Hemp,,0.05
+16,51,89.46,43.86,16,FirstHalf,MissedShots,461065,,,34.7,28.56,16.85,Manchester City Women,Brighton & Hove Albion Women,21,Khadija Shaw,FW,K. Shaw,,0.04
+18,36,95.445,32.912,18,FirstHalf,MissedShots,461065,,,18.1,28.424,18.6,Manchester City Women,Brighton & Hove Albion Women,21,Khadija Shaw,FW,K. Shaw,,0.1
+28,26,83.475,42.772,28,FirstHalf,SavedShot,494186,98.6,51.4,12,35.292,28.43333333,Manchester City Women,Brighton & Hove Albion Women,6,Vivianne Miedema,MC,V. Miedema,,0.05
+40,27,91.77,34.272,40,FirstHalf,SavedShot,461065,92.7,50.5,19,34.476,40.45,Manchester City Women,Brighton & Hove Albion Women,21,Khadija Shaw,FW,K. Shaw,,0.43
+40,29,94.92,32.368,40,FirstHalf,MissedShots,460974,,,62.5,36.448,40.48333333,Manchester City Women,Brighton & Hove Albion Women,16,Jessica Park,MC,J. Park,,0.12
+43,59,101.535,36.584,43,FirstHalf,Goal,461065,,,0.6,32.64,43.98333333,Manchester City Women,Brighton & Hove Albion Women,21,Khadija Shaw,FW,K. Shaw,,0.48
+47,25,99.12,17.34,49,SecondHalf,SavedShot,461084,99.4,45.5,20.9,32.504,48.5,Manchester City Women,Brighton & Hove Albion Women,20,Aoba Fujino,FWR,A. Fujino,,0.03
+49,29,91.77,37.264,51,SecondHalf,MissedShots,460953,,,8.3,26.52,50.56666667,Manchester City Women,Brighton & Hove Albion Women,11,Lauren Hemp,FWL,L. Hemp,,0.11
+53,57,89.355,31.552,55,SecondHalf,SavedShot,461065,90.2,47.7,19,34.068,55.03333333,Manchester City Women,Brighton & Hove Albion Women,21,Khadija Shaw,FW,K. Shaw,,0.12
+61,18,96.495,28.492,63,SecondHalf,MissedShots,461065,98.5,34.8,11.1,22.168,62.38333333,Manchester City Women,Brighton & Hove Albion Women,21,Khadija Shaw,FW,K. Shaw,,0.3
+62,54,89.46,36.992,64,SecondHalf,SavedShot,494186,87.1,54.2,19,35.632,63.98333333,Manchester City Women,Brighton & Hove Albion Women,6,Vivianne Miedema,MC,V. Miedema,,0.06
+63,8,80.43,19.924,65,SecondHalf,SavedShot,464437,81.9,35.9,18.1,36.244,64.21666667,Manchester City Women,Brighton & Hove Albion Women,25,Yui Hasegawa,MC,Y. Hasegawa,,0.03
+69,16,94.92,30.94,71,SecondHalf,MissedShots,494219,,,19.4,28.56,70.35,Manchester City Women,Brighton & Hove Albion Women,3,Naomi Layzell,DR,N. Layzell,,0.07
+72,10,96.81,31.552,74,SecondHalf,MissedShots,461065,,,59.7,37.604,73.25,Manchester City Women,Brighton & Hove Albion Women,21,Khadija Shaw,FW,K. Shaw,,0.14
+78,43,90.93,32.3,80,SecondHalf,MissedShots,455530,,,79.2,34.884,79.8,Manchester City Women,Brighton & Hove Albion Women,8,Mary Fowler,Sub,M. Fowler,,0.07
+83,11,90.195,39.508,85,SecondHalf,SavedShot,460974,91.1,56.5,10.1,35.02,84.26666667,Manchester City Women,Brighton & Hove Albion Women,16,Jessica Park,MC,J. Park,,0.53
+87,7,91.14,36.652,89,SecondHalf,SavedShot,460953,98.1,51.1,28.5,35.292,88.2,Manchester City Women,Brighton & Hove Albion Women,11,Lauren Hemp,FWL,L. Hemp,,0.13
+88,2,83.895,20.06,90,SecondHalf,MissedShots,461084,,,11.1,28.356,89.11666667,Manchester City Women,Brighton & Hove Albion Women,20,Aoba Fujino,FWR,A. Fujino,,0.02
+89,23,92.19,39.78,91,SecondHalf,MissedShots,460953,,,54.2,33.252,90.46666667,Manchester City Women,Brighton & Hove Albion Women,11,Lauren Hemp,FWL,L. Hemp,,0.06
+91,17,96.705,35.428,93,SecondHalf,SavedShot,461168,98.8,51.6,17.7,34.68,92.36666667,Manchester City Women,Brighton & Hove Albion Women,10,Jill Roord,Sub,J. Roord,,0.16
+8,51,99.96,27.132,8,FirstHalf,SavedShot,460818,97.7,44.4,8.9,32.436,8.85,Manchester City Women,Chelsea FC Women,14,Kerolin,FW,Kerolin,,0.29
+31,17,91.14,28.764,31,FirstHalf,Goal,460818,,,3.2,36.38,31.28333333,Manchester City Women,Chelsea FC Women,14,Kerolin,FW,Kerolin,,0.19
+33,45,82.95,32.708,33,FirstHalf,SavedShot,461156,98.2,48.9,13.3,35.292,33.75,Manchester City Women,Chelsea FC Women,18,Kerstin Casparij,DR,K. Casparij,,0.04
+34,17,91.14,28.832,34,FirstHalf,MissedShots,460818,93.4,52,9.7,46.716,34.28333333,Manchester City Women,Chelsea FC Women,14,Kerolin,FW,Kerolin,,0.07
+41,13,83.16,28.492,41,FirstHalf,ShotOnPost,464437,,,39.2,31.824,41.21666667,Manchester City Women,Chelsea FC Women,25,Yui Hasegawa,MC,Y. Hasegawa,,0.11
+42,19,96.81,32.164,42,FirstHalf,MissedShots,474633,,,30.6,27.336,42.31666667,Manchester City Women,Chelsea FC Women,7,Laura Coombs,FWL,L. Coombs,,0.28
+52,27,90.195,22.644,54,SecondHalf,SavedShot,494186,98.8,47.1,6.3,35.292,53.53333333,Manchester City Women,Chelsea FC Women,6,Vivianne Miedema,FWR,V. Miedema,,0.05
+61,16,76.44,33.252,63,SecondHalf,SavedShot,455530,79.7,49.5,19,34.748,62.35,Manchester City Women,Chelsea FC Women,8,Mary Fowler,Sub,M. Fowler,,0.04
+70,43,94.605,29.852,72,SecondHalf,MissedShots,455530,91.4,50.7,22.2,41.82,71.8,Manchester City Women,Chelsea FC Women,8,Mary Fowler,Sub,M. Fowler,,0.1
+78,57,90.405,27.948,80,SecondHalf,MissedShots,460818,,,59.7,35.428,80.03333333,Manchester City Women,Chelsea FC Women,14,Kerolin,FW,Kerolin,,0.1
+83,56,82.425,22.1,85,SecondHalf,MissedShots,461156,90.7,50.9,8.3,42.5,85.01666667,Manchester City Women,Chelsea FC Women,18,Kerstin Casparij,DR,K. Casparij,,0.04
+1,34,89.04,34.34,1,FirstHalf,SavedShot,461168,86.7,50.4,19,33.592,1.566666667,Manchester City Women,Leicester City WFC,10,Jill Roord,MC,J. Roord,,0.06
+1,44,95.55,35.632,1,FirstHalf,Goal,461065,,,13.9,31.212,1.733333333,Manchester City Women,Leicester City WFC,21,Khadija Shaw,FW,K. Shaw,,0.1
+4,29,82.425,37.264,4,FirstHalf,SavedShot,455530,83.2,53.8,19,34.136,4.483333333,Manchester City Women,Leicester City WFC,8,Mary Fowler,FWR,M. Fowler,,0.08
+13,18,79.59,43.316,13,FirstHalf,SavedShot,460974,97.5,50,21.5,33.864,13.3,Manchester City Women,Leicester City WFC,16,Jessica Park,MC,J. Park,,0.03
+28,28,97.545,31.96,28,FirstHalf,Goal,461065,,,11.4,32.368,28.46666667,Manchester City Women,Leicester City WFC,21,Khadija Shaw,FW,K. Shaw,,0.18
+40,9,90.09,27.54,40,FirstHalf,MissedShots,461065,,,15.3,27.54,40.15,Manchester City Women,Leicester City WFC,21,Khadija Shaw,FW,K. Shaw,,0.15
+45,40,77.49,24.684,45,FirstHalf,MissedShots,461065,,,76.4,27.744,45.66666667,Manchester City Women,Leicester City WFC,21,Khadija Shaw,FW,K. Shaw,,0.02
+46,12,73.92,35.632,46,FirstHalf,SavedShot,464437,97.8,50.7,17.1,32.912,46.2,Manchester City Women,Leicester City WFC,25,Yui Hasegawa,MC,Y. Hasegawa,,0.02
+48,12,90.195,40.596,52,SecondHalf,Goal,460974,,,11.4,36.312,52.18333333,Manchester City Women,Leicester City WFC,16,Jessica Park,MC,J. Park,,0.14
+51,21,80.535,38.76,55,SecondHalf,SavedShot,494318,98.8,50,24.1,34,55.33333333,Manchester City Women,Leicester City WFC,15,Leila Ouahabi,DL,L. Ouahabi,,0.05
+55,1,78.96,43.316,59,SecondHalf,SavedShot,464437,78.9,61.7,19,34.34,59,Manchester City Women,Leicester City WFC,25,Yui Hasegawa,MC,Y. Hasegawa,,0.04
+56,52,86.73,20.944,60,SecondHalf,SavedShot,461065,98.2,47.5,5.7,35.972,60.85,Manchester City Women,Leicester City WFC,21,Khadija Shaw,FW,K. Shaw,,0.04
+57,25,92.19,41.004,61,SecondHalf,Goal,455530,,,24.1,35.768,61.4,Manchester City Women,Leicester City WFC,8,Mary Fowler,FWR,M. Fowler,,0.05
+59,58,93.345,30.328,63,SecondHalf,SavedShot,461065,90.7,45.8,19,35.564,63.95,Manchester City Women,Leicester City WFC,21,Khadija Shaw,FW,K. Shaw,,0.08
+60,1,93.345,30.464,64,SecondHalf,MissedShots,461065,,,33.3,38.76,64,Manchester City Women,Leicester City WFC,21,Khadija Shaw,FW,K. Shaw,,0.12
+61,11,93.975,22.1,65,SecondHalf,SavedShot,461168,92.3,35.9,19,30.94,65.16666667,Manchester City Women,Leicester City WFC,10,Jill Roord,MC,J. Roord,,0.06
+61,13,96.915,40.392,65,SecondHalf,MissedShots,461065,,,13.9,40.936,65.2,Manchester City Women,Leicester City WFC,21,Khadija Shaw,FW,K. Shaw,,0.12
+66,31,79.38,23.936,70,SecondHalf,SavedShot,455530,98.5,46.9,23.4,34.884,70.5,Manchester City Women,Leicester City WFC,8,Mary Fowler,FWR,M. Fowler,,0.06
+92,48,99.12,43.452,96,SecondHalf,MissedShots,538232,,,55.6,31.212,96.78333333,Manchester City Women,Leicester City WFC,46,Lily Murphy,Sub,L. Murphy,,0.14
+5,36,88.935,36.72,5,FirstHalf,SavedShot,461168,89.1,52.7,19,33.728,5.6,Manchester City Women,Liverpool FC Women,10,Jill Roord,MC,J. Roord,,0.14
+9,45,100.38,24.548,9,FirstHalf,SavedShot,461084,96.2,37.7,19,33.048,9.75,Manchester City Women,Liverpool FC Women,20,Aoba Fujino,MR,A. Fujino,,0.05
+9,53,97.545,23.12,9,FirstHalf,SavedShot,464437,98.2,44.6,24.7,32.028,9.883333333,Manchester City Women,Liverpool FC Women,25,Yui Hasegawa,DMC,Y. Hasegawa,,0.03
+12,38,93.45,45.084,12,FirstHalf,SavedShot,461065,98.4,53.8,21.5,36.108,12.63333333,Manchester City Women,Liverpool FC Women,21,Khadija Shaw,FW,K. Shaw,,0.07
+29,53,95.97,41.14,29,FirstHalf,Goal,461065,,,3.2,32.028,29.88333333,Manchester City Women,Liverpool FC Women,21,Khadija Shaw,FW,K. Shaw,,0.17
+32,23,95.13,32.98,32,FirstHalf,MissedShots,494186,,,55.6,35.224,32.38333333,Manchester City Women,Liverpool FC Women,6,Vivianne Miedema,MC,V. Miedema,,0.08
+42,25,96.915,35.292,42,FirstHalf,Goal,461065,,,17.1,31.552,42.41666667,Manchester City Women,Liverpool FC Women,21,Khadija Shaw,FW,K. Shaw,,0.18
+46,11,94.395,23.256,48,SecondHalf,MissedShots,461084,,,5.6,38.964,47.26666667,Manchester City Women,Liverpool FC Women,20,Aoba Fujino,MR,A. Fujino,,0.13
+55,36,83.79,26.996,57,SecondHalf,MissedShots,461168,,,16.7,40.256,56.68333333,Manchester City Women,Liverpool FC Women,10,Jill Roord,MC,J. Roord,,0.03
+58,30,95.655,44.2,60,SecondHalf,SavedShot,494186,99.3,53.2,15.2,35.972,59.58333333,Manchester City Women,Liverpool FC Women,6,Vivianne Miedema,MC,V. Miedema,,0.2
+59,30,87.78,35.564,61,SecondHalf,SavedShot,461168,85.1,52.3,19,33.252,60.58333333,Manchester City Women,Liverpool FC Women,10,Jill Roord,MC,J. Roord,,0.1
+59,32,90.09,34.748,61,SecondHalf,Goal,461168,,,10.1,31.348,60.61666667,Manchester City Women,Liverpool FC Women,10,Jill Roord,MC,J. Roord,,0.18
+61,56,98.28,19.788,63,SecondHalf,MissedShots,455530,,,4.2,39.44,63.01666667,Manchester City Women,Liverpool FC Women,8,Mary Fowler,ML,M. Fowler,,0.03
+69,47,96.075,33.524,71,SecondHalf,MissedShots,461168,,,54.2,34.204,70.86666667,Manchester City Women,Liverpool FC Women,10,Jill Roord,MC,J. Roord,,0.19
+73,49,97.335,36.312,75,SecondHalf,SavedShot,460974,93.7,52.6,19,32.3,74.9,Manchester City Women,Liverpool FC Women,16,Jessica Park,Sub,J. Park,,0.19
+74,28,93.135,17,76,SecondHalf,SavedShot,461084,92.4,27.1,19,34.204,75.55,Manchester City Women,Liverpool FC Women,20,Aoba Fujino,MR,A. Fujino,,0.05
+76,40,88.83,10.88,78,SecondHalf,Goal,494324,,,25.9,36.652,77.75,Manchester City Women,Liverpool FC Women,28,Gracie Prior,DR,G. Prior,,0.02
+82,41,81.9,43.792,84,SecondHalf,SavedShot,460974,99.1,52.3,3.8,36.856,83.76666667,Manchester City Women,Liverpool FC Women,16,Jessica Park,Sub,J. Park,,0.02
+88,18,96.705,35.564,90,SecondHalf,MissedShots,460818,,,66.7,37.808,89.38333333,Manchester City Women,Liverpool FC Women,14,Kerolin,Sub,Kerolin,,0.17
+90,1,88.83,41.14,92,SecondHalf,SavedShot,460818,97.1,51.8,8.2,36.652,91.1,Manchester City Women,Liverpool FC Women,14,Kerolin,Sub,Kerolin,,0.18
+23,8,90.51,36.992,23,FirstHalf,SavedShot,494186,89.3,53.4,19,34.068,23.13333333,Manchester City Women,Manchester United Women,6,Vivianne Miedema,FW,V. Miedema,,0.06
+28,26,91.14,24.208,28,FirstHalf,MissedShots,461084,,,11.1,40.256,28.43333333,Manchester City Women,Manchester United Women,20,Aoba Fujino,MC,A. Fujino,,0.06
+32,5,78.75,39.644,32,FirstHalf,MissedShots,455530,,,9.7,38.964,32.08333333,Manchester City Women,Manchester United Women,8,Mary Fowler,MC,M. Fowler,,0.04
+39,11,91.14,31.076,39,FirstHalf,MissedShots,494186,87.5,46.8,15.3,46.512,39.18333333,Manchester City Women,Manchester United Women,6,Vivianne Miedema,FW,V. Miedema,,0.04
+39,38,100.905,34.272,39,FirstHalf,Goal,494186,,,10.1,33.32,39.63333333,Manchester City Women,Manchester United Women,6,Vivianne Miedema,FW,V. Miedema,,0.48
+43,23,85.575,33.66,43,FirstHalf,SavedShot,494186,98.9,49.5,3.2,36.04,43.38333333,Manchester City Women,Manchester United Women,6,Vivianne Miedema,FW,V. Miedema,,0.04
+45,19,94.815,33.796,45,FirstHalf,SavedShot,461168,99.9,50,17.7,35.292,45.31666667,Manchester City Women,Manchester United Women,10,Jill Roord,MC,J. Roord,,0.06
+46,31,82.11,41.82,46,FirstHalf,SavedShot,494186,81.2,60.1,19,35.02,46.51666667,Manchester City Women,Manchester United Women,6,Vivianne Miedema,FW,V. Miedema,,0.02
+47,14,94.71,42.84,47,FirstHalf,Goal,549485,,,13.9,31.824,47.23333333,Manchester City Women,Manchester United Women,27,Rebecca Knaak,DC,R. Knaak,,0.01
+49,15,100.485,44.744,49,FirstHalf,SavedShot,494186,96.8,62.1,19,34.952,49.25,Manchester City Women,Manchester United Women,6,Vivianne Miedema,FW,V. Miedema,,0.07
+48,38,86.31,31.96,53,SecondHalf,SavedShot,461168,89.9,48.4,19,34.136,53.21666667,Manchester City Women,Manchester United Women,10,Jill Roord,MC,J. Roord,,0.07
+58,18,89.46,37.4,63,SecondHalf,SavedShot,494186,86.3,54.3,11.1,31.552,62.88333333,Manchester City Women,Manchester United Women,6,Vivianne Miedema,FW,V. Miedema,,0.06
+58,20,89.985,41.752,63,SecondHalf,SavedShot,455530,99.1,51.8,1.9,33.864,62.91666667,Manchester City Women,Manchester United Women,8,Mary Fowler,MC,M. Fowler,,0.05
+59,8,96.18,36.584,64,SecondHalf,MissedShots,461168,,,25,29.716,63.71666667,Manchester City Women,Manchester United Women,10,Jill Roord,MC,J. Roord,,0.1
+67,13,94.605,35.428,72,SecondHalf,MissedShots,494319,,,36.1,24.888,71.8,Manchester City Women,Manchester United Women,4,Laia Aleixandri,DC,L. Aleixandri,,0.05
+68,46,83.055,28.084,73,SecondHalf,SavedShot,494186,99.5,48.9,14.6,35.088,73.35,Manchester City Women,Manchester United Women,6,Vivianne Miedema,FW,V. Miedema,,0.05
+73,23,93.345,36.04,78,SecondHalf,SavedShot,549485,99.5,50.4,25.3,31.28,77.96666667,Manchester City Women,Manchester United Women,27,Rebecca Knaak,DC,R. Knaak,,0.02
+75,20,88.41,31.416,80,SecondHalf,SavedShot,461168,86.2,47.1,19,36.38,79.91666667,Manchester City Women,Manchester United Women,10,Jill Roord,MC,J. Roord,,0.06
+75,32,95.025,32.436,80,SecondHalf,MissedShots,494186,,,56.9,20.944,80.11666667,Manchester City Women,Manchester United Women,6,Vivianne Miedema,FW,V. Miedema,,0.06
+77,56,100.17,29.92,82,SecondHalf,SavedShot,455530,99.3,46.4,1.3,34.544,82.51666667,Manchester City Women,Manchester United Women,8,Mary Fowler,MC,M. Fowler,,0.22
+87,59,95.97,31.008,92,SecondHalf,SavedShot,549485,95.5,47.1,6.9,36.584,92.56666667,Manchester City Women,Manchester United Women,27,Rebecca Knaak,DC,R. Knaak,,0.09
+91,1,96.495,38.08,96,SecondHalf,SavedShot,549485,95,54.2,19,34.816,95.6,Manchester City Women,Manchester United Women,27,Rebecca Knaak,DC,R. Knaak,,0.14
+0,22,94.92,25.432,0,FirstHalf,Goal,461065,,,1.9,35.768,0.3666666667,Manchester City Women,Tottenham Hotspur Women,21,Khadija Shaw,FW,K. Shaw,,0.4
+6,47,79.485,35.428,6,FirstHalf,SavedShot,464437,98.2,51.4,10.8,36.108,6.783333333,Manchester City Women,Tottenham Hotspur Women,25,Yui Hasegawa,DMC,Y. Hasegawa,,0.07
+9,3,100.17,33.796,9,FirstHalf,MissedShots,461084,95.9,84.7,6.9,68,9.05,Manchester City Women,Tottenham Hotspur Women,20,Aoba Fujino,MR,A. Fujino,,0.52
+14,22,100.275,31.416,14,FirstHalf,Goal,461065,,,22.8,35.36,14.36666667,Manchester City Women,Tottenham Hotspur Women,21,Khadija Shaw,FW,K. Shaw,,0.37
+19,40,100.8,41.14,19,FirstHalf,MissedShots,460953,98.5,36.1,4.2,21.624,19.66666667,Manchester City Women,Tottenham Hotspur Women,11,Lauren Hemp,ML,L. Hemp,,0.17
+31,48,92.82,32.98,31,FirstHalf,MissedShots,461065,,,1.4,21.692,31.8,Manchester City Women,Tottenham Hotspur Women,21,Khadija Shaw,FW,K. Shaw,,0.04
+37,31,89.88,44.268,37,FirstHalf,SavedShot,494318,88.4,62.8,19,36.176,37.51666667,Manchester City Women,Tottenham Hotspur Women,15,Leila Ouahabi,DL,L. Ouahabi,,0.04
+37,35,88.725,29.92,37,FirstHalf,SavedShot,461168,87.2,44.8,19,32.912,37.58333333,Manchester City Women,Tottenham Hotspur Women,10,Jill Roord,MC,J. Roord,,0.03
+41,1,97.545,32.572,41,FirstHalf,MissedShots,461084,,,61.1,30.056,41.01666667,Manchester City Women,Tottenham Hotspur Women,20,Aoba Fujino,MR,A. Fujino,,0.31
+50,31,86.625,44.132,52,SecondHalf,SavedShot,460953,98.6,52.7,27.2,31.824,51.71666667,Manchester City Women,Tottenham Hotspur Women,11,Lauren Hemp,ML,L. Hemp,,0.08
+52,2,96.39,32.708,54,SecondHalf,SavedShot,460974,93.3,48.6,19,34.408,53.23333333,Manchester City Women,Tottenham Hotspur Women,16,Jessica Park,MC,J. Park,,0.15
+52,24,93.66,35.564,54,SecondHalf,SavedShot,461065,91.5,51.8,19,34,53.6,Manchester City Women,Tottenham Hotspur Women,21,Khadija Shaw,FW,K. Shaw,,0.04
+56,56,95.34,45.152,58,SecondHalf,ShotOnPost,460953,,,30.4,37.604,58.13333333,Manchester City Women,Tottenham Hotspur Women,11,Lauren Hemp,ML,L. Hemp,,0.13
+58,11,84.21,38.284,60,SecondHalf,SavedShot,461168,85.6,54.5,19,33.864,59.38333333,Manchester City Women,Tottenham Hotspur Women,10,Jill Roord,MC,J. Roord,,0.04
+65,24,95.025,42.432,67,SecondHalf,Goal,461168,,,26.6,36.924,66.6,Manchester City Women,Tottenham Hotspur Women,10,Jill Roord,MC,J. Roord,,0.39
+66,55,101.85,29.784,68,SecondHalf,Goal,461065,,,1.9,32.844,68.11666667,Manchester City Women,Tottenham Hotspur Women,21,Khadija Shaw,FW,K. Shaw,,0.3
+83,51,95.97,35.02,85,SecondHalf,SavedShot,455530,99.5,50.5,5.1,33.116,85.05,Manchester City Women,Tottenham Hotspur Women,8,Mary Fowler,Sub,M. Fowler,,0.14
+89,10,93.45,46.172,91,SecondHalf,MissedShots,538232,,,23.6,38.284,90.36666667,Manchester City Women,Tottenham Hotspur Women,46,Lily Murphy,Sub,L. Murphy,,0.03
+91,0,90.195,31.008,93,SecondHalf,SavedShot,460968,88,46.4,19,34.612,92.2,Manchester City Women,Tottenham Hotspur Women,9,Chloe Kelly,Sub,C. Kelly,,0.05
+8,49,93.45,42.636,8,FirstHalf,SavedShot,455530,98,51.4,8.2,35.36,8.816666667,Manchester City Women,West Ham United Women,8,Mary Fowler,FW,M. Fowler,,0.07
+9,54,96.705,36.72,9,FirstHalf,Goal,460953,,,12,36.312,9.9,Manchester City Women,West Ham United Women,11,Lauren Hemp,FWL,L. Hemp,,0.23
+11,26,95.97,49.572,11,FirstHalf,SavedShot,461168,93.7,67.5,19,35.836,11.43333333,Manchester City Women,West Ham United Women,10,Jill Roord,MC,J. Roord,,0.04
+22,21,78.96,42.908,22,FirstHalf,SavedShot,460953,78,62.1,19,36.856,22.35,Manchester City Women,West Ham United Women,11,Lauren Hemp,FWL,L. Hemp,,0.02
+25,11,85.05,32.504,25,FirstHalf,SavedShot,494318,87.2,48.4,19,33.728,25.18333333,Manchester City Women,West Ham United Women,15,Leila Ouahabi,DL,L. Ouahabi,,0.04
+28,18,82.95,55.896,28,FirstHalf,SavedShot,460968,82.4,77.1,19,34.408,28.3,Manchester City Women,West Ham United Women,9,Chloe Kelly,FWR,C. Kelly,,0.02
+29,55,97.335,34.748,29,FirstHalf,MissedShots,460953,,,58.3,35.224,29.91666667,Manchester City Women,West Ham United Women,11,Lauren Hemp,FWL,L. Hemp,,0.19
+31,38,87.36,31.688,31,FirstHalf,SavedShot,461168,86.9,46.9,19,32.708,31.63333333,Manchester City Women,West Ham United Women,10,Jill Roord,MC,J. Roord,,0.09
+47,5,85.89,43.384,50,SecondHalf,SavedShot,460953,97.5,51.8,25.9,35.496,49.16666667,Manchester City Women,West Ham United Women,11,Lauren Hemp,FWL,L. Hemp,,0.05
+47,48,95.235,40.732,50,SecondHalf,MissedShots,460953,,,65.3,30.6,49.88333333,Manchester City Women,West Ham United Women,11,Lauren Hemp,FWL,L. Hemp,,0.15
+49,58,84.21,41.14,52,SecondHalf,MissedShots,494186,,,2.8,39.168,52.05,Manchester City Women,West Ham United Women,6,Vivianne Miedema,Sub,V. Miedema,,0.03
+54,57,89.67,25.84,57,SecondHalf,MissedShots,494193,,,81.9,29.172,57.03333333,Manchester City Women,West Ham United Women,19,Laura Blindkilde Brown,MC,L. B. Brown,,0.1
+58,3,101.745,35.156,61,SecondHalf,SavedShot,460953,98.9,49.6,13.3,35.088,60.13333333,Manchester City Women,West Ham United Women,11,Lauren Hemp,FWL,L. Hemp,,0.56
+59,25,91.35,43.248,62,SecondHalf,SavedShot,494186,90.6,59.8,19,33.728,61.5,Manchester City Women,West Ham United Women,6,Vivianne Miedema,Sub,V. Miedema,,0.06
+65,50,94.815,22.848,68,SecondHalf,SavedShot,494186,92,35.9,19,31.824,67.91666667,Manchester City Women,West Ham United Women,6,Vivianne Miedema,Sub,V. Miedema,,0.03
+65,56,75.285,34.204,68,SecondHalf,MissedShots,460956,,,22.2,39.78,68.01666667,Manchester City Women,West Ham United Women,5,Alex Greenwood,DC,A. Greenwood,,0.02
+70,25,97.86,37.196,73,SecondHalf,Goal,455530,,,15.2,35.972,72.5,Manchester City Women,West Ham United Women,8,Mary Fowler,FW,M. Fowler,,0.47
+74,59,85.05,33.524,77,SecondHalf,ShotOnPost,494318,,,39.2,36.108,77.06666667,Manchester City Women,West Ham United Women,15,Leila Ouahabi,DL,L. Ouahabi,,0.09
+75,1,93.45,36.516,78,SecondHalf,SavedShot,494186,93.2,52.5,19,34.408,77.1,Manchester City Women,West Ham United Women,6,Vivianne Miedema,Sub,V. Miedema,,0.27
+86,46,85.05,42.568,89,SecondHalf,SavedShot,461065,82.9,61.6,19,35.564,88.85,Manchester City Women,West Ham United Women,21,Khadija Shaw,Sub,K. Shaw,,0.04
+92,34,90.3,11.424,95,SecondHalf,SavedShot,460956,98.6,48,21.5,32.232,94.65,Manchester City Women,West Ham United Women,5,Alex Greenwood,DC,A. Greenwood,,0.04
+10,46,95.76,36.108,10,FirstHalf,Goal,494186,,,14.6,34.068,10.76666667,Manchester City Women,Tottenham Hotspur Women,6,Vivianne Miedema,MC,V. Miedema,,0.1
+18,47,94.605,36.924,18,FirstHalf,MissedShots,461065,,,73.6,36.108,18.78333333,Manchester City Women,Tottenham Hotspur Women,21,Khadija Shaw,FW,K. Shaw,,0.04
+29,20,94.815,21.148,29,FirstHalf,SavedShot,461084,92.7,35.6,19,33.66,29.33333333,Manchester City Women,Tottenham Hotspur Women,20,Aoba Fujino,MR,A. Fujino,,0.07
+60,25,99.75,18.632,65,SecondHalf,SavedShot,461065,96.2,31.9,19,31.96,64.51666667,Manchester City Women,Tottenham Hotspur Women,21,Khadija Shaw,FW,K. Shaw,,0.02
+61,3,80.64,27.812,66,SecondHalf,SavedShot,464437,98.9,49.8,13.9,35.496,65.15,Manchester City Women,Tottenham Hotspur Women,25,Yui Hasegawa,DMC,Y. Hasegawa,,0.02
+62,41,97.65,35.292,67,SecondHalf,SavedShot,494186,99.8,47.3,19,32.096,66.78333333,Manchester City Women,Tottenham Hotspur Women,6,Vivianne Miedema,MC,V. Miedema,,0.12
+70,2,89.145,19.652,75,SecondHalf,MissedShots,461084,,,30.6,42.976,74.13333333,Manchester City Women,Tottenham Hotspur Women,20,Aoba Fujino,MR,A. Fujino,,0.04
+74,44,81.585,33.796,79,SecondHalf,SavedShot,461156,99.9,51.8,2.5,36.584,78.83333333,Manchester City Women,Tottenham Hotspur Women,18,Kerstin Casparij,DR,K. Casparij,,0.03
+77,40,91.875,25.024,82,SecondHalf,Goal,461084,,,23.4,35.836,81.76666667,Manchester City Women,Tottenham Hotspur Women,20,Aoba Fujino,MR,A. Fujino,,0.06
+81,32,100.485,36.448,86,SecondHalf,MissedShots,460974,98,46.9,4.2,28.22,85.63333333,Manchester City Women,Tottenham Hotspur Women,16,Jessica Park,Sub,J. Park,,0.5
+83,5,95.13,28.832,88,SecondHalf,SavedShot,461084,99.1,48.9,3.2,35.156,87.18333333,Manchester City Women,Tottenham Hotspur Women,20,Aoba Fujino,MR,A. Fujino,,0.04
+89,36,93.975,28.016,94,SecondHalf,SavedShot,494186,91.6,42.6,19,32.708,93.7,Manchester City Women,Tottenham Hotspur Women,6,Vivianne Miedema,MC,V. Miedema,,0.02
+89,38,97.965,29.036,94,SecondHalf,SavedShot,494219,100,47.8,16.5,33.592,93.73333333,Manchester City Women,Tottenham Hotspur Women,3,Naomi Layzell,DC,N. Layzell,,0.13
+2,59,94.29,18.224,2,FirstHalf,SavedShot,460818,99.5,47.1,2.5,33.524,2.983333333,Manchester City Women,West Ham United Women,14,Kerolin,MR,Kerolin,,0.04
+10,42,94.08,22.712,10,FirstHalf,MissedShots,460818,,,1.4,42.976,10.7,Manchester City Women,West Ham United Women,14,Kerolin,MR,Kerolin,,0.05
+14,10,92.4,29.648,14,FirstHalf,SavedShot,494178,93.4,47.7,19,35.768,14.16666667,Manchester City Women,West Ham United Women,13,Laura Wienroither,DR,L. Wienroither,,0.11
+14,11,91.35,23.936,14,FirstHalf,SavedShot,460974,93.7,41.3,19,33.388,14.18333333,Manchester City Women,West Ham United Women,16,Jessica Park,MC,J. Park,,0.05
+34,57,86.205,51,34,FirstHalf,SavedShot,538232,99.7,51.8,34.8,32.64,34.95,Manchester City Women,West Ham United Women,46,Lily Murphy,ML,L. Murphy,,0.02
+43,48,91.875,48.008,43,FirstHalf,MissedShots,538232,,,20.8,28.22,43.8,Manchester City Women,West Ham United Women,46,Lily Murphy,ML,L. Murphy,,0.04
+56,57,93.345,32.572,59,SecondHalf,SavedShot,460974,99,50.4,36.7,35.496,59.2,Manchester City Women,West Ham United Women,16,Jessica Park,MC,J. Park,,0.04
+61,21,93.03,36.516,64,SecondHalf,SavedShot,538232,99.5,50.2,1.9,36.38,63.6,Manchester City Women,West Ham United Women,46,Lily Murphy,ML,L. Murphy,,0.14
+66,26,86.205,40.596,69,SecondHalf,SavedShot,461168,99.9,51.4,1.9,36.652,68.68333333,Manchester City Women,West Ham United Women,10,Jill Roord,MC,J. Roord,,0.06
+67,30,93.45,35.632,70,SecondHalf,SavedShot,461065,98.9,50,7,35.904,69.75,Manchester City Women,West Ham United Women,21,Khadija Shaw,Sub,K. Shaw,,0.17
+71,0,96.705,25.228,74,SecondHalf,ShotOnPost,494178,,,38.6,33.728,73.25,Manchester City Women,West Ham United Women,13,Laura Wienroither,DR,L. Wienroither,,0.04
+72,27,97.965,30.736,75,SecondHalf,MissedShots,461065,,,15.3,40.8,74.7,Manchester City Women,West Ham United Women,21,Khadija Shaw,Sub,K. Shaw,,0.35
+75,19,81.69,43.52,78,SecondHalf,SavedShot,461168,99.5,50.7,27.2,34.68,77.56666667,Manchester City Women,West Ham United Women,10,Jill Roord,MC,J. Roord,,0.03
+77,31,95.55,33.728,80,SecondHalf,SavedShot,494324,93.3,50.2,19,35.292,79.76666667,Manchester City Women,West Ham United Women,28,Gracie Prior,DC,G. Prior,,0.08
+79,48,98.07,32.98,82,SecondHalf,MissedShots,494186,97.1,45.7,15.3,24.14,82.05,Manchester City Women,West Ham United Women,6,Vivianne Miedema,Sub,V. Miedema,,0.2
+79,50,102.06,33.796,82,SecondHalf,Goal,461065,,,8.2,36.108,82.08333333,Manchester City Women,West Ham United Women,21,Khadija Shaw,Sub,K. Shaw,,0.9
+88,40,90.825,17.136,91,SecondHalf,SavedShot,461065,88.9,29.4,19,33.32,90.91666667,Manchester City Women,West Ham United Women,21,Khadija Shaw,Sub,K. Shaw,,0.03
+36,8,100.275,33.388,36,FirstHalf,Goal,461156,,,1.9,33.592,36.13333333,Manchester City Women,Brighton & Hove Albion Women,18,Kerstin Casparij,MR,K. Casparij,,0.57
+48,52,91.77,25.568,48,FirstHalf,SavedShot,464437,96.7,46.9,19,34.204,48.86666667,Manchester City Women,Brighton & Hove Albion Women,25,Yui Hasegawa,DMC,Y. Hasegawa,,0.09
+49,40,97.65,33.524,49,FirstHalf,SavedShot,494219,96,48.9,19,32.912,49.66666667,Manchester City Women,Brighton & Hove Albion Women,3,Naomi Layzell,DC,N. Layzell,,0.14
+50,6,94.29,36.72,50,FirstHalf,SavedShot,455530,98.5,50.4,22.2,34.136,50.1,Manchester City Women,Brighton & Hove Albion Women,8,Mary Fowler,FW,M. Fowler,,0.22
+57,9,92.4,43.656,67,SecondHalf,SavedShot,538232,90.7,61.4,19,35.156,66.68333333,Manchester City Women,Brighton & Hove Albion Women,46,Lily Murphy,ML,L. Murphy,,0.06
+62,8,84.315,35.496,72,SecondHalf,MissedShots,494318,,,75,32.912,71.66666667,Manchester City Women,Brighton & Hove Albion Women,15,Leila Ouahabi,DL,L. Ouahabi,,0.04
+71,38,86.205,36.04,81,SecondHalf,SavedShot,460818,85.3,52.3,19,33.524,81.16666667,Manchester City Women,Brighton & Hove Albion Women,14,Kerolin,Sub,Kerolin,,0.12
+74,42,81.9,21.488,84,SecondHalf,MissedShots,460818,90.1,50.9,33.3,47.192,84.23333333,Manchester City Women,Brighton & Hove Albion Women,14,Kerolin,Sub,Kerolin,,0.02
+77,4,95.97,32.3,87,SecondHalf,SavedShot,494186,98.8,48.6,13.9,34.136,86.6,Manchester City Women,Brighton & Hove Albion Women,6,Vivianne Miedema,Sub,V. Miedema,,0.13
+85,39,78.54,28.696,95,SecondHalf,SavedShot,461168,98.4,49.5,20.3,34.204,95.18333333,Manchester City Women,Brighton & Hove Albion Women,10,Jill Roord,Sub,J. Roord,,0.03
+86,16,88.515,43.52,96,SecondHalf,MissedShots,460818,,,4.2,26.384,95.8,Manchester City Women,Brighton & Hove Albion Women,14,Kerolin,Sub,Kerolin,,0.06
+89,32,94.92,36.924,99,SecondHalf,Goal,494186,,,28.5,36.584,99.06666667,Manchester City Women,Brighton & Hove Albion Women,6,Vivianne Miedema,Sub,V. Miedema,,0.3

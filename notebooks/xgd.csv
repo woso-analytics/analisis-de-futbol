@@ -1,0 +1,145 @@
+Wk,day,date,time,home_team_name,home_team_xG,away_team_xG,away_team_name,attendance,venue,referee,home_team_score,away_team_score
+1,Fri,9/20/2024,19:00 (20:00),Chelsea,1.10,0.90,Aston Villa,4337,Cherry Red Records Fans' Stadium,Kirsty Dowle,1,0
+1,Sat,9/21/2024,12:00 (13:00),Manchester Utd,1.20,0.90,West Ham,8761,Old Trafford,Cheryl Foster,3,0
+1,Sat,9/21/2024,12:30 (13:30),Brighton,2.10,0.50,Everton,2125,Broadfield Stadium,Lauren Impey,4,0
+1,Sun,9/22/2024,12:30 (13:30),Arsenal,2.20,1.40,Manchester City,41818,Emirates Stadium,Abigail Byrne,2,2
+1,Sun,9/22/2024,14:00 (15:00),Tottenham,4.10,0.30,Crystal Palace,1778,Brisbane Road,Amy Fearn,4,0
+1,Sun,9/22/2024,14:00 (15:00),Liverpool,1.40,0.20,Leicester City,3058,Totally Wicked Stadium,Adewunmi Soneye,1,1
+2,Fri,9/27/2024,19:30 (20:30),Crystal Palace,0.30,2.80,Chelsea,5003,Selhurst Park,Emily Heaslip,0,7
+2,Sun,9/29/2024,12:30 (13:30),Manchester City,3.00,0.80,Brighton,3727,Joie Stadium,Stacey Pearson,1,0
+2,Sun,9/29/2024,14:00 (15:00),Everton,0.70,1.10,Manchester Utd,1343,Walton Hall Park,Kirsty Dowle,0,1
+2,Sun,9/29/2024,15:00 (16:00),West Ham,0.70,1.50,Liverpool,1799,Chigwell Construction Stadium,Abigail Byrne,1,1
+2,Sun,9/29/2024,15:00 (16:00),Leicester City,0.40,1.40,Arsenal,5163,King Power Stadium,Elizabeth Simms,0,1
+2,Sun,9/29/2024,16:30 (17:30),Aston Villa,1.90,1.30,Tottenham,2912,Villa Park,Elliot Bell,2,2
+3,Sat,10/5/2024,12:30 (13:30),Brighton,2.50,2.30,Aston Villa,2152,Broadfield Stadium,Ryan Atkin,4,2
+3,Sun,10/6/2024,13:00 (14:00),Manchester City,2.60,0.50,West Ham,3316,Joie Stadium,Jane Simms,2,0
+3,Sun,10/6/2024,14:00 (15:00),Arsenal,0.70,0.10,Everton,25480,Emirates Stadium,Stacey Pearson,0,0
+3,Sun,10/6/2024,14:15 (15:15),Tottenham,0.90,1.50,Liverpool,2206,Brisbane Road,Kirsty Dowle,2,3
+3,Sun,10/6/2024,15:00 (16:00),Leicester City,1.60,1.20,Crystal Palace,1806,King Power Stadium,Stephen Parkinson,0,2
+4,Sat,10/12/2024,13:45 (14:45),Arsenal,2.60,1.10,Chelsea,45860,Emirates Stadium,Cheryl Foster,1,2
+4,Sun,10/13/2024,12:30 (13:30),Manchester Utd,1.80,1.10,Tottenham,4473,Leigh Sports Village Stadium,Lisa Benn,3,0
+4,Sun,10/13/2024,14:00 (15:00),Crystal Palace,1.00,1.30,Brighton,1166,VBS Community Stadium,Kirsty Dowle,0,1
+4,Sun,10/13/2024,14:00 (15:00),Aston Villa,1.20,0.60,Leicester City,2907,Villa Park,Steve Martin,0,0
+4,Sun,10/13/2024,14:00 (15:00),Everton,1.40,1.00,West Ham,1087,Walton Hall Park,Richie Watkins,1,1
+4,Sun,10/13/2024,15:00 (16:00),Liverpool,0.40,1.50,Manchester City,17484,Anfield,Stacey Fullicks,1,2
+5,Sat,10/19/2024,12:30 (13:30),Brighton,1.10,1.20,Manchester Utd,8369,The American Express Stadium,Stacey Fullicks,1,1
+5,Sun,10/20/2024,12:15 (13:15),Manchester City,1.70,0.20,Aston Villa,3528,Joie Stadium,Kirsty Dowle,2,1
+5,Sun,10/20/2024,14:00 (15:00),Liverpool,1.50,2.00,Crystal Palace,3007,Totally Wicked Stadium,Amy Fearn,1,1
+5,Sun,10/20/2024,15:00 (16:00),West Ham,0.50,1.60,Arsenal,3300,Chigwell Construction Stadium,Thomas Parsons,0,2
+5,Sun,10/20/2024,15:00 (16:00),Leicester City,0.80,1.60,Everton,1398,King Power Stadium,Tom Nield,1,0
+5,Sun,10/20/2024,18:45 (19:45),Chelsea,2.10,0.40,Tottenham,4152,Cherry Red Records Fans' Stadium,Emily Heaslip,5,2
+6,Sun,11/3/2024,12:30 (14:30),Manchester Utd,1.10,1.90,Arsenal,8348,Leigh Sports Village Stadium,Kirsty Dowle,1,1
+6,Sun,11/3/2024,14:00 (16:00),Tottenham,1.90,0.80,West Ham,2216,Brisbane Road,Melissa Burgin,2,1
+6,Sun,11/3/2024,14:00 (16:00),Crystal Palace,0.40,3.00,Manchester City,2275,Selhurst Park,Lisa Benn,0,3
+6,Sun,11/3/2024,14:00 (16:00),Brighton,1.60,0.10,Leicester City,2082,Broadfield Stadium,Adewunmi Soneye,1,0
+6,Sun,11/3/2024,16:30 (18:30),Aston Villa,0.60,0.60,Liverpool,3213,Villa Park,Phoebe Cross,1,2
+6,Sun,11/3/2024,18:45 (20:45),Everton,0.30,3.60,Chelsea,2109,Goodison Park,Stacey Fullicks,0,5
+7,Fri,11/8/2024,19:00 (21:00),Arsenal,2.80,0.40,Brighton,22467,Emirates Stadium,Amy Fearn,5,0
+7,Fri,11/8/2024,19:30 (21:30),Manchester City,3.30,0.60,Tottenham,10319,Etihad Stadium,,4,0
+7,Sun,11/10/2024,12:30 (14:30),Liverpool,0.40,2.80,Chelsea,4514,Totally Wicked Stadium,Lisa Benn,0,3
+7,Sun,11/10/2024,14:00 (16:00),Crystal Palace,1.80,0.90,Everton,502,VBS Community Stadium,Kirsty Dowle,1,1
+7,Sun,11/10/2024,15:00 (17:00),West Ham,1.40,0.30,Leicester City,1617,Chigwell Construction Stadium,Elizabeth Simms,1,0
+7,Sun,11/10/2024,18:45 (20:45),Manchester Utd,0.50,1.90,Aston Villa,3833,Leigh Sports Village Stadium,Melissa Burgin,0,0
+8,Sat,11/16/2024,12:30 (14:30),Brighton,1.10,2.50,West Ham,4638,The American Express Stadium,Lisa Benn,3,2
+8,Sat,11/16/2024,13:45 (15:45),Tottenham,0.10,1.90,Arsenal,28852,Tottenham Hotspur Stadium,Emily Heaslip,0,3
+8,Sat,11/16/2024,17:30 (19:30),Chelsea,1.00,0.70,Manchester City,19499,Stamford Bridge,Melissa Burgin,2,0
+8,Sun,11/17/2024,14:00 (16:00),Aston Villa,1.30,1.30,Crystal Palace,42789,Villa Park,Grace Lowe,3,2
+8,Sun,11/17/2024,15:00 (17:00),Leicester City,0.40,2.10,Manchester Utd,,King Power Stadium,Stacey Fullicks,0,2
+8,Sun,11/17/2024,15:00 (17:00),Everton,0.90,1.60,Liverpool,,Goodison Park,Abigail Byrne,1,0
+3,Sun,11/24/2024,12:00 (14:00),Chelsea,2.10,0.20,Manchester Utd,4264,Cherry Red Records Fans' Stadium,Emily Heaslip,1,0
+9,Sun,12/8/2024,12:00 (14:00),Manchester Utd,2.10,0.60,Liverpool,4782,Leigh Sports Village Stadium,Stacey Fullicks,4,0
+9,Sun,12/8/2024,13:00 (15:00),Tottenham,2.90,0.60,Everton,918,Brisbane Road,Amy Fearn,2,1
+9,Sun,12/8/2024,13:00 (15:00),Manchester City,1.50,0.70,Leicester City,4782,Joie Stadium,Emily Heaslip,4,0
+9,Sun,12/8/2024,14:00 (16:00),Arsenal,3.10,0.40,Aston Villa,29515,Emirates Stadium,Abigail Byrne,4,0
+9,Sun,12/8/2024,14:00 (16:00),Chelsea,4.20,2.80,Brighton,3765,Cherry Red Records Fans' Stadium,,4,2
+9,Sun,12/8/2024,14:30 (16:30),West Ham,2.90,0.50,Crystal Palace,1292,Chigwell Construction Stadium,Lisa Benn,5,2
+10,Sat,12/14/2024,12:00 (14:00),Leicester City,0.40,1.90,Chelsea,2619,King Power Stadium,Kirsty Dowle,1,1
+10,Sat,12/14/2024,17:30 (19:30),Brighton,1.10,1.20,Tottenham,2083,Broadfield Stadium,Lisa Benn,1,1
+10,Sun,12/15/2024,12:30 (14:30),Everton,1.40,3.10,Manchester City,1292,Walton Hall Park,Cheryl Foster,2,1
+10,Sun,12/15/2024,14:00 (16:00),Crystal Palace,0.20,2.10,Manchester Utd,1773,VBS Community Stadium,Amy Fearn,0,1
+10,Sun,12/15/2024,14:00 (16:00),Aston Villa,2.20,1.20,West Ham,2494,Villa Park,Grace Lowe,3,1
+10,Sun,12/15/2024,14:30 (16:30),Liverpool,0.20,2.10,Arsenal,5786,Totally Wicked Stadium,Melissa Burgin,0,1
+11,Fri,1/17/2025,19:00 (21:00),Liverpool,0.90,0.40,Brighton,,Totally Wicked Stadium,Kirsty Dowle,2,1
+11,Sat,1/18/2025,17:30 (19:30),Everton,0.40,1.10,Aston Villa,,Walton Hall Park,Stacey Fullicks,1,1
+11,Sun,1/19/2025,12:30 (14:30),Tottenham,0.00,1.30,Leicester City,1314,Brisbane Road,Stacey Pearson,1,0
+11,Sun,1/19/2025,14:00 (16:00),Arsenal,3.20,0.90,Crystal Palace,3576,Mangata Pay UK Stadium,Phoebe Cross,5,0
+11,Sun,1/19/2025,15:00 (17:00),West Ham,0.40,2.30,Chelsea,,Chigwell Construction Stadium,Amy Fearn,0,5
+11,Sun,1/19/2025,18:45 (20:45),Manchester City,1.80,2.70,Manchester Utd,22497,Etihad Stadium,Lisa Benn,2,4
+12,Sat,1/25/2025,12:00 (14:00),Aston Villa,0.70,3.10,Manchester City,,Villa Park,Melissa Burgin,2,4
+12,Sun,1/26/2025,12:30 (14:30),Chelsea,2.90,1.20,Arsenal,34302,Stamford Bridge,Emily Heaslip,1,0
+12,Sun,1/26/2025,14:00 (16:00),Crystal Palace,1.30,0.80,Tottenham,,VBS Community Stadium,Lucy May,2,3
+12,Sun,1/26/2025,15:00 (17:00),West Ham,1.80,2.10,Everton,,Chigwell Construction Stadium,Adewunmi Soneye,2,0
+12,Sun,1/26/2025,15:00 (17:00),Leicester City,1.10,1.10,Liverpool,,King Power Stadium,Abigail Byrne,2,1
+12,Sun,1/26/2025,18:45 (20:45),Manchester Utd,2.70,0.70,Brighton,3027,Leigh Sports Village Stadium,Cheryl Foster,3,0
+13,Sun,2/2/2025,12:00 (14:00),Manchester City,1.70,2.00,Arsenal,,Joie Stadium,Cheryl Foster,3,4
+13,Sun,2/2/2025,14:00 (16:00),Brighton,1.10,0.70,Crystal Palace,2345,Broadfield Stadium,Stacey Fullicks,1,1
+13,Sun,2/2/2025,14:00 (16:00),Liverpool,1.70,0.80,West Ham,,Totally Wicked Stadium,Amy Fearn,1,0
+13,Sun,2/2/2025,14:00 (16:00),Everton,2.60,0.80,Leicester City,,Walton Hall Park,,4,1
+13,Sun,2/2/2025,14:30 (16:30),Aston Villa,0.50,0.70,Chelsea,4324,Villa Park,Lisa Benn,0,1
+13,Sun,2/2/2025,18:45 (20:45),Tottenham,0.50,0.90,Manchester Utd,,Tottenham Hotspur Stadium,Kirsty Dowle,0,1
+14,Sun,2/16/2025,12:00 (14:00),Manchester Utd,2.50,0.50,Crystal Palace,4761,Leigh Sports Village Stadium,Amy Fearn,3,1
+14,Sun,2/16/2025,12:30 (14:30),Arsenal,2.60,0.70,Tottenham,56784,Emirates Stadium,Stacey Fullicks,5,0
+14,Sun,2/16/2025,14:00 (16:00),Chelsea,1.80,0.40,Everton,,Cherry Red Records Fans' Stadium,Phoebe Cross,2,1
+14,Sun,2/16/2025,15:00 (17:00),Leicester City,2.00,1.00,Aston Villa,,King Power Stadium,Adewunmi Soneye,3,0
+14,Sun,2/16/2025,15:00 (17:00),West Ham,2.40,1.40,Brighton,,Chigwell Construction Stadium,Lucy May,3,1
+14,Sun,2/16/2025,18:45 (20:45),Manchester City,2.10,1.60,Liverpool,,Joie Stadium,Kirsty Dowle,4,0
+15,Sun,3/2/2025,12:30 (14:30),Manchester Utd,2.10,0.60,Leicester City,3950,Leigh Sports Village Stadium,Phoebe Cross,2,0
+15,Sun,3/2/2025,14:00 (16:00),Crystal Palace,0.50,1.70,Liverpool,,VBS Community Stadium,Ryan Atkin,0,1
+15,Sun,3/2/2025,14:00 (16:00),Tottenham,1.20,1.20,Manchester City,,Brisbane Road,Amy Fearn,1,2
+15,Sun,3/2/2025,14:00 (16:00),Aston Villa,0.80,0.80,Everton,2936,Villa Park,Stacey Pearson,0,2
+15,Sun,3/2/2025,15:00 (17:00),Brighton,1.80,1.80,Chelsea,,Broadfield Stadium,Kirsty Dowle,2,2
+15,Sun,3/2/2025,17:30 (19:30),Arsenal,3.60,2.10,West Ham,,Mangata Pay UK Stadium,Adewunmi Soneye,4,3
+16,Wed,3/5/2025,19:00 (21:00),West Ham,0.80,2.20,Manchester City,,Chigwell Construction Stadium,Grace Lowe,1,1
+16,Wed,3/5/2025,19:30 (21:30),Chelsea,2.20,0.40,Leicester City,,Cherry Red Records Fans' Stadium,Abigail Byrne,3,1
+16,Fri,3/14/2025,19:00 (21:00),Everton,0.40,2.00,Arsenal,,Walton Hall Park,Grace Lowe,1,3
+16,Fri,3/14/2025,19:15 (21:15),Liverpool,1.30,1.10,Manchester Utd,15596,Anfield,Amy Fearn,3,1
+16,Sun,3/16/2025,14:00 (16:00),Crystal Palace,1.10,1.10,Aston Villa,1130,VBS Community Stadium,Stacey Fullicks,3,1
+16,Sun,3/16/2025,15:00 (17:00),Tottenham,0.20,1.50,Brighton,,Brisbane Road,Ryan Atkin,0,1
+17,Sat,3/22/2025,14:00 (16:00),Everton,1.40,1.10,Crystal Palace,,Walton Hall Park,Adewunmi Soneye,3,0
+17,Sat,3/22/2025,17:30 (19:30),Arsenal,1.50,0.10,Liverpool,35628,Emirates Stadium,Stacey Fullicks,4,0
+17,Sun,3/23/2025,12:00 (14:00),West Ham,2.00,1.70,Tottenham,,Chigwell Construction Stadium,Stacey Pearson,2,0
+17,Sun,3/23/2025,14:30 (16:30),Manchester City,1.30,2.70,Chelsea,,Etihad Stadium,Kirsty Dowle,1,2
+17,Sun,3/23/2025,15:00 (17:00),Leicester City,2.60,2.00,Brighton,,King Power Stadium,Amy Fearn,3,2
+17,Sun,3/23/2025,16:30 (18:30),Aston Villa,1.00,2.30,Manchester Utd,5038,Villa Park,Emily Heaslip,0,4
+18,Sun,3/30/2025,12:00 (13:00),Manchester Utd,3.20,0.30,Everton,3856,Leigh Sports Village Stadium,Phoebe Cross,2,0
+18,Sun,3/30/2025,14:00 (15:00),Leicester City,0.50,2.50,Tottenham,,King Power Stadium,Grace Lowe,1,1
+18,Sun,3/30/2025,14:00 (15:00),Crystal Palace,0.40,1.50,Arsenal,,VBS Community Stadium,Emily Heaslip,0,4
+18,Sun,3/30/2025,14:00 (15:00),Brighton,1.90,1.70,Manchester City,,Broadfield Stadium,Stacey Fullicks,1,2
+18,Sun,3/30/2025,14:00 (15:00),Liverpool,1.80,0.60,Aston Villa,3082,Totally Wicked Stadium,Megan Wilson,1,2
+18,Sun,3/30/2025,16:30 (17:30),Chelsea,2.50,1.10,West Ham,,Cherry Red Records Fans' Stadium,Abigail Byrne,2,2
+19,Tue,4/15/2025,19:30 (20:30),Arsenal,2.90,0.20,Leicester City,5539,Emirates Stadium,Melissa Burgin,5,1
+19,Sat,4/19/2025,12:00 (13:00),West Ham,0.40,1.80,Manchester Utd,,Chigwell Construction Stadium,Harrison Blair,0,0
+19,Sat,4/19/2025,12:30 (13:30),Brighton,0.40,1.60,Liverpool,,The American Express Stadium,Lisa Benn,1,2
+19,Sun,4/20/2025,13:00 (14:00),Manchester City,2.10,0.50,Everton,,Joie Stadium,Phoebe Cross,1,1
+19,Sun,4/20/2025,14:00 (15:00),Tottenham,1.70,1.30,Aston Villa,,Brisbane Road,Stacey Fullicks,2,3
+19,Wed,4/23/2025,19:15 (20:15),Chelsea,3.90,0.00,Crystal Palace,,Cherry Red Records Fans' Stadium,Grace Lowe,4,0
+20,Sun,4/27/2025,12:00 (13:00),Liverpool,1.20,1.00,Tottenham,,Totally Wicked Stadium,Phoebe Cross,2,2
+20,Sun,4/27/2025,12:30 (13:30),Crystal Palace,1.60,3.20,West Ham,,VBS Community Stadium,Kirsty Dowle,1,7
+20,Sun,4/27/2025,14:00 (15:00),Everton,0.90,2.30,Brighton,,Walton Hall Park,Megan Wilson,2,3
+20,Sun,4/27/2025,15:00 (16:00),Leicester City,0.80,0.90,Manchester City,,King Power Stadium,Ryan Atkin,0,1
+20,Wed,4/30/2025,18:00 (19:00),Aston Villa,1.90,1.50,Arsenal,4590,Villa Park,Grace Lowe,5,2
+20,Wed,4/30/2025,20:15 (21:15),Manchester Utd,1.80,1.30,Chelsea,4029,Leigh Sports Village Stadium,Abigail Byrne,0,1
+21,Sun,5/4/2025,12:00 (13:00),Liverpool,2.20,0.90,Everton,,Totally Wicked Stadium,Lisa Benn,0,2
+21,Sun,5/4/2025,12:00 (13:00),Manchester Utd,1.20,1.30,Manchester City,,Old Trafford,Emily Heaslip,2,2
+21,Sun,5/4/2025,14:00 (15:00),Crystal Palace,2.50,1.40,Leicester City,,VBS Community Stadium,Adewunmi Soneye,2,2
+21,Sun,5/4/2025,14:15 (15:15),Tottenham,1.00,1.90,Chelsea,,Tottenham Hotspur Stadium,Melissa Burgin,0,1
+21,Sun,5/4/2025,15:00 (16:00),West Ham,1.60,1.50,Aston Villa,,Chigwell Construction Stadium,Stacey Pearson,2,3
+21,Mon,5/5/2025,16:00 (17:00),Brighton,1.90,3.40,Arsenal,,Broadfield Stadium,Amy Fearn,4,2
+19,Tue,4/15/2025,19:30 (20:30),Arsenal,2.90,0.20,Leicester City,5539,Emirates Stadium,Melissa Burgin,5,1
+19,Sat,4/19/2025,12:00 (13:00),West Ham,0.40,1.80,Manchester Utd,,Chigwell Construction Stadium,Harrison Blair,0,0
+19,Sat,4/19/2025,12:30 (13:30),Brighton,0.40,1.60,Liverpool,,The American Express Stadium,Lisa Benn,1,2
+19,Sun,4/20/2025,13:00 (14:00),Manchester City,2.10,0.50,Everton,,Joie Stadium,Phoebe Cross,1,1
+19,Sun,4/20/2025,14:00 (15:00),Tottenham,1.70,1.30,Aston Villa,,Brisbane Road,Stacey Fullicks,2,3
+19,Wed,4/23/2025,19:15 (20:15),Chelsea,3.90,0.00,Crystal Palace,,Cherry Red Records Fans' Stadium,Grace Lowe,4,0
+20,Sun,4/27/2025,12:00 (13:00),Liverpool,1.20,1.00,Tottenham,,Totally Wicked Stadium,Phoebe Cross,2,2
+20,Sun,4/27/2025,12:30 (13:30),Crystal Palace,1.60,3.20,West Ham,,VBS Community Stadium,Kirsty Dowle,1,7
+20,Sun,4/27/2025,14:00 (15:00),Everton,0.90,2.30,Brighton,,Walton Hall Park,Megan Wilson,2,3
+20,Sun,4/27/2025,15:00 (16:00),Leicester City,0.80,0.90,Manchester City,,King Power Stadium,Ryan Atkin,0,1
+20,Wed,4/30/2025,18:00 (19:00),Aston Villa,1.90,1.50,Arsenal,4590,Villa Park,Grace Lowe,5,2
+20,Wed,4/30/2025,20:15 (21:15),Manchester Utd,1.80,1.30,Chelsea,4029,Leigh Sports Village Stadium,Abigail Byrne,0,1
+21,Sun,5/4/2025,12:00 (13:00),Liverpool,2.20,0.90,Everton,,Totally Wicked Stadium,Lisa Benn,0,2
+21,Sun,5/4/2025,12:00 (13:00),Manchester Utd,1.20,1.30,Manchester City,,Old Trafford,Emily Heaslip,2,2
+21,Sun,5/4/2025,14:00 (15:00),Crystal Palace,2.50,1.40,Leicester City,,VBS Community Stadium,Adewunmi Soneye,2,2
+21,Sun,5/4/2025,14:15 (15:15),Tottenham,1.00,1.90,Chelsea,,Tottenham Hotspur Stadium,Melissa Burgin,0,1
+21,Sun,5/4/2025,15:00 (16:00),West Ham,1.60,1.50,Aston Villa,,Chigwell Construction Stadium,Stacey Pearson,2,3
+21,Mon,5/5/2025,16:00 (17:00),Brighton,1.90,3.40,Arsenal,,Broadfield Stadium,Amy Fearn,4,2
